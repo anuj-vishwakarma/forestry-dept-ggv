@@ -109,6 +109,7 @@ body {
 }
 
 .logo {
+  padding-top: 1rem;
   order: 1;
   margin-bottom: 0.5rem;
   letter-spacing: 0.05rem;
