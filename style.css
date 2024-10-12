@@ -246,6 +246,9 @@ body {
     right: 15px;
     font-size: 2rem;
   }
+    .logo-container .logo-image {
+      display:none;
+    }
 
   .navbar-container input[type="checkbox"]:checked ~ .menu-items {
     transform: translateX(0);
@@ -282,6 +285,9 @@ body {
   .logo-text-span {
     margin-left: 8.1rem;
   }
+    .logo-container .logo-image {
+      display:none;
+    }
   .hamburger-lines {
     margin-top: -0.5rem;
   }
