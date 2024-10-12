@@ -249,7 +249,9 @@ body {
     .logo-container .logo-image {
       display:none;
     }
-
+  .logo-text-span {
+    margin-left: 6.9rem;
+  }
   .navbar-container input[type="checkbox"]:checked ~ .menu-items {
     transform: translateX(0);
   }
