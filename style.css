@@ -71,7 +71,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 65px;
+  height: 64px;
   padding-top: 2rem;
   align-items: center;
 }
@@ -106,7 +106,6 @@ body {
   align-items: center;
   justify-content: center;
   gap: 1rem;
-  margin-top: -1.7rem;
 }
 
 .logo {
@@ -121,9 +120,9 @@ body {
   text-wrap: nowrap;
 }
 .logo-image {
-  padding-top: 0.2rem;
-  width: 4.7rem;
-  height: 4.4rem;
+  margin-top: -1.3rem;
+  width: 5.7rem;
+  height: 5.4rem;
 }
 .logo-text-span {
   font-weight: 500;
